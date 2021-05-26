@@ -25,4 +25,5 @@ html
 ## HTML 태그 객체와 생성자
 
 var el = document.getElementById("header1");           el.변수
-    -> HTMLHeadingElement                                 함수  -> 둘다 자바스크립트에서는 프로퍼티
+    -> HTMLHeadingElement  : align                                함수  -> 둘다 자바스크립트에서는 프로퍼티
+          HTML Element. <- HTML 태그가 반드시 가져야 할 변수나 메서드 추가
